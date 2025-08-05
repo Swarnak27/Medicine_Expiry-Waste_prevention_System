@@ -1,0 +1,13 @@
+# Include SQL files in language stats
+*.sql linguist-language=SQL
+
+# Exclude data and documentation files
+*.csv linguist-detectable=false
+*.xlsx linguist-detectable=false
+*.txt linguist-detectable=false
+*.md linguist-detectable=false
+
+# Exclude images/screenshots
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
