@@ -1,0 +1,8 @@
+waste_id,batch_id,reason,quantity_wasted,waste_date
+1,2,Expired,20,2024-08-01
+2,4,Expired,30,2024-08-01
+3,6,"Damaged packaging",10,2025-07-10
+4,7,Expired,15,2025-08-01
+5,8,"Broken seal",5,2025-09-20
+6,9,"Improper storage",12,2025-10-01
+7,10,Spoiled,8,2025-10-15

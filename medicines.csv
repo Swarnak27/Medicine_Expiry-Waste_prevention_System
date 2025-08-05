@@ -1,0 +1,15 @@
+medicine_id,name,category,manufacturer
+1,Paracetamol,Painkiller,Cipla
+2,Amoxicillin,Antibiotic,"Sun Pharma"
+3,Cetirizine,Antihistamine,"Dr Reddy"
+4,Metformin,Diabetes,Lupin
+5,Paracetamol,Painkiller,Cipla
+6,Amoxicillin,Antibiotic,"Sun Pharma"
+7,Cetirizine,Antihistamine,"Dr Reddy"
+8,Metformin,Diabetes,Lupin
+9,Ibuprofen,Painkiller,"Dr Reddy"
+10,"Dolo 650",Painkiller,"Micro Labs"
+11,Azithromycin,Antibiotic,Cipla
+12,Pantoprazole,"Gastric Relief",Alkem
+13,Montelukast,Anti-Allergy,Lupin
+14,"Cough Syrup","Cold & Cough",Himalaya
