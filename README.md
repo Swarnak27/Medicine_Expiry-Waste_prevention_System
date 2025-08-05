@@ -25,7 +25,7 @@ The system uses the following tables:
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Database**: MySQL
 - **Tool**: MySQL Workbench
